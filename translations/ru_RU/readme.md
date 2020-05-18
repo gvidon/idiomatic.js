@@ -78,7 +78,6 @@
 ### [ECMAScript 5.1 с комментариями](http://es5.github.com/)
 ### [Спецификация языка ECMAScript, издание 5.1](http://ecma-international.org/ecma-262/5.1/)
 
-
 Следующее должно считаться 1) незавершенным, и 2) *ТРЕБУЮЩИМ ЧТЕНИЯ*. Я не всегда согласен со стилями этих авторов, но одно точно: они консистентны. Более того, это каноны для языка.
 
  * [Baseline For Front End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
